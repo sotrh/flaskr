@@ -1,0 +1,4 @@
+*.pyc
+*.db
+venv/
+flaskr.egg-info/
